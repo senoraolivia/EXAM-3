@@ -1,0 +1,43 @@
+.clothes {
+    .clothes {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      
+      
+      }
+      .card {
+        border: 2px solid grey;
+        border-radius: 7%;
+        padding: 10px;
+        width: 300px;
+        height: 350px;
+      }
+    }
+
+  
+.sec1 {
+
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/slider_1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 70vh;
+
+    
+}
+
+
+.sec2 {
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+.sec4 {
+  margin-top: 100px;
+}
+
+.sec5 {
+  margin-top: 100px;
+}

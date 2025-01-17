@@ -1,0 +1,32 @@
+header {
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    .header {
+      background:white;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      gap: 0.5rem;
+      padding: 1rem 0;
+      h1 {
+
+        color:black;
+        border: 1px solid white;
+        width: 150px;
+        height: 60px;
+        padding: 10px;
+        span {
+          color: red;
+        }
+      }
+      nav {
+
+        ul {
+          display: flex;
+          gap: 2rem;
+        }
+      }
+    }
+  }
